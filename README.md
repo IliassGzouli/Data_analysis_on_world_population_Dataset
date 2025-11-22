@@ -40,5 +40,48 @@ outputs/graphs/
 README.md
 requirements.txt
 
+# Visualisations et Résultats
+
+## Aperçu statistique (describe)
+<p align="center">
+  <img src="assets/screenshots/describe_table.png" width="900">
+</p>
+
+---
+
+## Évolution de la population par continent (1970 - 2022)
+<p align="center">
+  <img src="assets/screenshots/population_evolution.png" width="900">
+</p>
+
+---
+
+## Top 10 des pays les plus peuplés (2022)
+<p align="center">
+  <img src="assets/screenshots/top10_population.png" width="900">
+</p>
+
+---
+
+## Évolution de la population par continent – version alternative (Plotly)
+<p align="center">
+  <img src="assets/screenshots/population_evolution_plotly.png" width="900">
+</p>
+
+---
+
+## Heatmap des corrélations
+<p align="center">
+  <img src="assets/screenshots/correlation_heatmap.png" width="900">
+</p>
+
+---
+
+## Conclusion
+<p align="center">
+  <img src="assets/screenshots/conclusion.png" width="900">
+</p>
+
+
 ##  Author
 **Iliass Gzouli**
